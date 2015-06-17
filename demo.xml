@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCase>
+	<Parameters id="Type">
+		<Parameter name="Int" type="int" scope="0,1" not-null="true" default="" />
+		<Parameter name="String" type="String" scope="(1,10]|adsfasdf" not-null="true" default="" />
+		<Parameter name="Boolean" type="boolean" scope="T,F" not-null="" default="" />
+		<Parameter name="Double" type="double" scope="(-1,0)" not-null="" default="" />
+		<Parameter name="Long" type="long" scope="" not-null="" default="" />
+	</Parameters>
+</TestCase>
+
